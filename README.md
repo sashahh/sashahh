@@ -1,49 +1,18 @@
-## THE TECH MAVEN
+# 💫 About Me:
+ About Me  <br>Recent Computer Science graduate  <br>Experienced with **Java, Spring Boot, PostgreSQL, MySQL**  <br>Aspiring **Data Analyst** with skills in **SQL, Python (Pandas, NumPy), Power BI**  <br>Open to global opportunities in backend development and data analytics  <br>
 
-# 👩‍💻 The Tech Maven  
 
-Hi, I’m Sasha — a tech-savvy problem solver blending **Java backend expertise** with a passion for **data-driven insights**.  
-I build **scalable, secure systems** and turn raw data into actionable intelligence. Always curious, always coding, always leveling up.  
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sasha emillia ndamba) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sasha) 
 
----
-
-## 🚀 About Me  
-- 🎓 Recent graduate in Computer Science  
-- 💻 Experienced with **Java, Spring Boot, PostgreSQL, MySQL**  
-- 📊 Aspiring **Data Analyst** with skills in **SQL, Python (Pandas, NumPy), Power BI**  
-- 🌍 Open to global opportunities in backend development and data analytics  
-- ✨ Tech Lady on a mission: making an impact through **code + data**  
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sashahh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sashahh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sashahh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=sashahh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠️ Tech Stack  
-**Languages:** Java, Python, SQL, JavaScript  
-**Frameworks:** Spring Boot, Hibernate, JUnit  
-**Databases:** PostgreSQL, MySQL  
-**Data Tools:** Power BI, Excel, Pandas, NumPy  
-**Other Tools:** Git, Docker, Postman  
-
----
-
-## 🔥 Featured Projects  
-https://github.com/invenico-zw/maas-backend → A Spring Boot backend for banking transactions with JWT authentication. https://github.com/sashahh/busRegistration -  A spring Boot backend system for online registration with the use of thymeleaf for fronted
-
- 
-
-
-## 📸 Sneak Peek  
-Here’s what I love building:  
-
-- ✅ Secure APIs with Spring Boot  
-- ✅ Clean, well-structured databases  
-
----
-
-## 📫 Let’s Connect!  
-- ✉️ Email: **your.email@example.com**  
-- 🔗 [LinkedIn](https://linkedin.com/in/your-linkedin)  
-
----
-
-⭐️ *“Code, Data, and Curiosity — that’s the Maven way!”*  
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
